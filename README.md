@@ -4,7 +4,19 @@
     <img src="https://img.shields.io/badge/version-1.0.8-yellowgreen" alt="version 1.0.8"/>
     <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="license MIT"/>
     <img src="https://img.shields.io/badge/author-Astroraditya-orange" alt="author AstroRaditya"/>
-</p>This is a repo made for hosting the task given by students union technical team of BITS Pilani, Pilani Campus.
+</p>This is a repo made for hosting the task given by students union technical team of BITS Pilani, Pilani Campus. You can use <br/>
+<li>Email: admin@bppcmall.com</li><br></br>
+<li>Password: admin1234</li> <br></br> for default check
+
+# Preview
+
+<p align ="center">
+        <img src="src/D1.jpg" />
+        <img src="src/D2.jpg" />
+        <img src="src/D3.jpg" />
+        <img src="src/D4.jpg" />
+        <img src="src/D5.jpg" />
+</p>
 
 ## License 📜
 
